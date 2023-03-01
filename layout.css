@@ -1,0 +1,48 @@
+.cabecalho {
+    padding: 20px;
+    flex: auto;
+    background-color: rgb(116, 112, 112);
+}
+
+.cabecalho .menu_link {
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu_link:hover {
+    color: rgb(231, 234, 236);
+}
+
+.artigo_cabecalho {
+    margin-top: 5px;
+    margin-bottom: 30px;
+
+    margin-left: 30px;
+
+}
+
+.artigo_cabecalho__texto {
+
+    margin-left: 30px;
+    width: 60ch;
+}
+
+.botaosabermais {
+    background-color: rgb(134, 133, 133);
+    border-radius: 15px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.botaosabermais:hover {
+    background-color: rgb(107, 103, 103);
+    border-radius: 20px;
+    margin-left: 30px;
+    padding: 15px;
+    box-shadow: -15px 5px 10px 1px black
+}
+
+.rodape {
+    text-align: center;
+}
